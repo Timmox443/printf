@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_binary - prints a number in base 2
+ * print_binary - prints a number in base 2.
  * @l: va_list arguments from _printf
  * @f: pointer to the struct that determines
  * if a flag is passed to _printf
