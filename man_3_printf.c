@@ -12,7 +12,7 @@ DESCRIPTION:
 	Format specifiers allows the prototype:
 		%[flags][width][.precision][length]specifier
 	
-	Flags:
+	Flags:i
 		- : left-justify within given field width
 
 		+ : force to proceed result with a plus or minus sign
