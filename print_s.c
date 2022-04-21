@@ -8,6 +8,7 @@
  * @f: pointer to the struct flags that determines
  * if a flag is passed to _printf
  * Return: number of char printed
+ * cc Timmo & Elvis
  */
 int print_S(va_list l, flags_t *f)
 {
