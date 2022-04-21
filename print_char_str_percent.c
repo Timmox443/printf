@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_char - function to print a character
+ * print_char - function to print a character...
  * @l: va_list for function
  * @f: pointer to structure flags
  * Return: the number of characters printed
