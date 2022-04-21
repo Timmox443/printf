@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_hexlower - prints a number in hexadecimal base,
- * in lowercase
+ * in lowercase.
  * @l: va_list arguments from _printf
  * @f: pointer to the struct flags that determines
  * if a flag is passed to _printf
