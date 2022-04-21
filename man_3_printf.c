@@ -19,7 +19,7 @@ DESCRIPTION:
 
 		space : insert a blank space before a value if no sign is going to be written
 
-		# : preceed 0s on o,x or X specifiers; force decimals on a,A,e,E,f,F,g or G
+		# : preceed 0s on o,x or X specifiers; force decimals on a,A,e,E,f,F,g or G.
 
 		0 : left-pad the number with zeroes instead spaces
 	
@@ -49,3 +49,4 @@ DESCRIPTION:
 		s		sample		string of character
 
 		%		%		with single % after %
+	
