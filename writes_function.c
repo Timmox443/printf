@@ -8,6 +8,7 @@
  * On error, -1 is returned, and errno is set appropriately.
  * Description: _putchar uses a local buffer of 1024 to call write
  * as little as possible
+ * cc Timmo & Elvis
  */
 int _putchar(char c)
 {
