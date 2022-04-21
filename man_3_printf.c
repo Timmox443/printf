@@ -3,7 +3,7 @@ _PRINTF                       User Commands      "ALX SCHOOL"
 NAME:
 	_printf - format and print data
 		- takes a format string and a variable number of 
-		  arguments depending on the format string
+		  arguments depending on the format string.
 SYNOPSIS:
 	_printf FORMAT [ARGUMENT]...
 	_printf OPTION
