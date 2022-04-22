@@ -1,4 +1,4 @@
-_PRINTF                       User Commands      "ALX SCHOOL"
+_printf                       User Commands      "ALX SCHOOL"
 
 NAME:
 	_printf - format and print data
